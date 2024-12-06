@@ -8,11 +8,9 @@ Welcome to my GitHub profile! I'm a passionate **Software Development Engineer (
 
 ## 🚀 About Me
 - 🌱 I’m currently learning **Data Structures & Algorithms**, **Web Development**, and **Python**.
-- 💻 Working on projects like:
-  - **Recipe Sharing App**
+- 💻 Working on project like:
   - **Social Media Sentiment Analysis**
-  - **Fake News Detection using NLP**
-  - **Virtual Pet App**
+  - **Fake News Detection**
 - 🤝 Looking to collaborate on exciting open-source projects.
 - 📝 Actively preparing for SDE roles and internships.
 
@@ -36,9 +34,6 @@ Welcome to my GitHub profile! I'm a passionate **Software Development Engineer (
 ---
 
 ## 🌟 Featured Projects
-
-### 🍴 Recipe Sharing App
-A web platform where users can share, explore, and save recipes using **Flask**, **SQLite**, and **HTML/CSS/JavaScript**.
 
 ### 📰 Fake News Detection
 A machine learning-based project to classify news as real or fake using **Natural Language Processing (NLP)**.
