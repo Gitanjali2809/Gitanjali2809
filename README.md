@@ -40,9 +40,7 @@ A machine learning-based project to classify news as real or fake using **Natura
 
 [View all projects](#)
 ---
-
-![](https://leetcard.Yuu2809/Yuu2809?theme=unicorn)
-
+![](https://leetcard.jacoblin.cool/Yuu2809?theme=unicorn)
 ---
 
 ## 📫 Connect with Me
