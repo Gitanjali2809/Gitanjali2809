@@ -40,7 +40,7 @@ A machine learning-based project to classify news as real or fake using **Natura
 
 [View all projects](#)
 ---
-![Leetcode Stats](https://leetcard.Yuu2809l?ext=heatmap/Yuu2809?theme=unicorn)
+![Leetcode Stats](https://leetcard.Yuu2809?ext=heatmap/Yuu2809?theme=unicorn)
 
 ---
 
