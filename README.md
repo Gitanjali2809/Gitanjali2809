@@ -1,7 +1,8 @@
 # Hi , I'm Gitanjali! 👋
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gitanjali2809&show_icons=true&theme=holi)](https://github.com/Gitanjali2809/github-readme-stats)
-Welcome to my GitHub profile! I'm a passionate **Software Development Engineer (SDE)** and a BCA graduate from Government Engineering College, Bikaner. I enjoy building impactful projects, solving problems, and exploring new technologies.
+
+Welcome to my GitHub profile! I'm a passionate **Software Development Engineer (SDE)** and a BCA graduate from Government Engineering College, Bikaner. 
 
 ---
 
@@ -43,13 +44,6 @@ A web platform where users can share, explore, and save recipes using **Flask**,
 A machine learning-based project to classify news as real or fake using **Natural Language Processing (NLP)**.
 
 [View all projects](#)
-
----
-
-## 📚 Learning Goals
-- Master **Aditya Verma's DSA Playlists** for **Dynamic Programming** and **Backtracking**.
-- Explore **LeetCode** to sharpen problem-solving skills.
-- Dive deeper into **NLP** for placement-focused projects.
 
 ---
 
