@@ -2,7 +2,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gitanjali2809&show_icons=true&theme=holi)](https://github.com/Gitanjali2809/github-readme-stats)
 
-Welcome to my GitHub profile! I am a BCA graduate from Government Engineering College, Bikaner. Here, you'll find projects and code that reflect my journey in software development and continuous learning in the tech field.
+Welcome to my GitHub profile! I am a BCA graduate from Government Engineering College, Bikaner.  This is where I share my projects and explore software development while continuing to learn and grow in the tech field.
 
 ---
 
