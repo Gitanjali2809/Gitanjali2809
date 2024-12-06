@@ -54,7 +54,7 @@ A machine learning-based project to classify news as real or fake using **Natura
 ---
 
 ## 📫 Connect with Me
-- **LinkedIn**: [linkedin.com/in/isha-abbasi](#)
-- **Email**: isha@example.com
+- **LinkedIn**: [https://www.linkedin.com/in/gitanjali-singh-aa6b24219/](#)
+- **Email**: gitanjali17singh@gmail.com
 
 Feel free to explore my repositories, leave a star ⭐, or reach out for collaboration! Let's build something amazing together. 🚀
