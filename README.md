@@ -1,6 +1,5 @@
 ## Hi there 👋
-
-<!--
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gitanjali2809)](https://github.com/Gitanjali2809/github-readme-stats)<!--
 **Gitanjali2809/Gitanjali2809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
