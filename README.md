@@ -1,15 +1,60 @@
-## Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gitanjali2809)](https://github.com/Gitanjali2809/github-readme-stats)<!--
+# Hi , I'm Gitanjali! 👋
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gitanjali2809)](https://github.com/Gitanjali2809/github-readme-stats)
 
+Welcome to my GitHub profile! I'm a passionate **Software Development Engineer (SDE)** and a BCA graduate from Government Engineering College, Bikaner. I enjoy building impactful projects, solving problems, and exploring new technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🌱 I’m currently learning **Data Structures & Algorithms**, **Web Development**, and **Python**.
+- 💻 Working on projects like:
+  - **Recipe Sharing App**
+  - **Social Media Sentiment Analysis**
+  - **Fake News Detection using NLP**
+  - **Virtual Pet App**
+- 🤝 Looking to collaborate on exciting open-source projects.
+- 📝 Actively preparing for SDE roles and internships.
+
+---
+
+## 🛠️ Skills & Tools
+
+### Programming Languages
+- **C++** | **Python** | HTML/CSS/JavaScript
+
+### Technologies
+- **Web Development**: Flask, SQLite, React (Learning)
+- **Version Control**: Git & GitHub
+- **Database**: MySQL, SQLite
+
+### Areas of Interest
+- **Data Structures & Algorithms**
+- **Web Development**
+- **Natural Language Processing (NLP)**
+
+---
+
+## 🌟 Featured Projects
+
+### 🍴 Recipe Sharing App
+A web platform where users can share, explore, and save recipes using **Flask**, **SQLite**, and **HTML/CSS/JavaScript**.
+
+### 📰 Fake News Detection
+A machine learning-based project to classify news as real or fake using **Natural Language Processing (NLP)**.
+
+[View all projects](#)
+
+---
+
+## 📚 Learning Goals
+- Master **Aditya Verma's DSA Playlists** for **Dynamic Programming** and **Backtracking**.
+- Explore **LeetCode** to sharpen problem-solving skills.
+- Dive deeper into **NLP** for placement-focused projects.
+
+---
+
+## 📫 Connect with Me
+- **LinkedIn**: [linkedin.com/in/isha-abbasi](#)
+- **Email**: isha@example.com
+
+Feel free to explore my repositories, leave a star ⭐, or reach out for collaboration! Let's build something amazing together. 🚀
