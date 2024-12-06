@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate **Software Development Engineer (
 
 ## 🚀 About Me
 - 🌱 I’m currently learning **Data Structures & Algorithms**, **Web Development**, and **Python**.
-- 💻 Working on project like:
+- 💻 Working on projects like:
   - **Social Media Sentiment Analysis**
   - **Fake News Detection**
 - 🤝 Looking to collaborate on exciting open-source projects.
