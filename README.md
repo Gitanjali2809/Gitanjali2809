@@ -39,6 +39,9 @@ Welcome to my GitHub profile! I am a BCA graduate from Government Engineering Co
 A machine learning-based project to classify news as real or fake using **Natural Language Processing (NLP)**.
 
 [View all projects](#)
+---
+![](https://leetcard.jacoblin.cool/jacoblincool?theme=unicorn)
+![](https://leetcard.jacoblin.cool/jacoblincool?theme=light,unicorn)
 
 ---
 
