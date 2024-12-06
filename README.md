@@ -1,7 +1,6 @@
 # Hi , I'm Gitanjali! 👋
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gitanjali2809&show_icons=true&theme=holi)](https://github.com/Gitanjali2809/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gitanjali2809)](https://github.com/Gitanjali2809/github-readme-stats)
 Welcome to my GitHub profile! I'm a passionate **Software Development Engineer (SDE)** and a BCA graduate from Government Engineering College, Bikaner. I enjoy building impactful projects, solving problems, and exploring new technologies.
 
 ---
