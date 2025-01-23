@@ -1,6 +1,6 @@
 
 # Hi, I'm Gitanjali 👋  
----
+
 
 I’m a BCA graduate from Government Engineering College, Bikaner, exploring programming and problem-solving as I work on improving my skills. This is where I share my journey in software development as I continue learning and growing in the tech field.
 ---
