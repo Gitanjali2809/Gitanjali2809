@@ -44,9 +44,6 @@ I’m a BCA graduate from Government Engineering College, Bikaner, exploring pro
 
 ---
 
-This version maintains clarity and professionalism while ensuring proper grammar. Let me know if you'd like further refinements or suggestions!
----
-
 ## 📫 Connect with Me
 - **LinkedIn**: [https://www.linkedin.com/in/gitanjali-singh-aa6b24219/](#)
 - **Email**: gitanjali17singh@gmail.com
