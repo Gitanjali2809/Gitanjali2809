@@ -1,6 +1,3 @@
-Your profile description is already well-written, but here’s a slightly polished version with improved flow and grammar corrections to make it even better:
-
----
 
 # Hi, I'm Gitanjali 👋  
 ---
