@@ -34,8 +34,7 @@ I am exploring programming and problem-solving while improving my skills. This s
 
 ## 🌟 What's Next?  
 
-- Building practical projects to apply what I’ve learned.  
-- Exploring advanced web development frameworks and tools.  
+- Building practical projects to apply what I’ve learned.   
 - Preparing for internships and SDE opportunities.  
 
 ---
