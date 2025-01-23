@@ -1,44 +1,49 @@
-# Hi , I'm Gitanjali! 👋
-
-
-Welcome to my GitHub profile! I am a BCA graduate from Government Engineering College, Bikaner.  This is where I share my projects and explore software development while continuing to learn and grow in the tech field.
+Your profile description is already well-written, but here’s a slightly polished version with improved flow and grammar corrections to make it even better:
 
 ---
 
-## 🚀 About Me
-- 🌱 I’m currently learning **Data Structures & Algorithms**, **Web Development**.
-- 💻 Working on projects like:
-  - **Social Media Sentiment Analysis**
-  - **Fake News Detection**
-- 🤝 Looking to collaborate on exciting open-source projects.
-- 📝 Actively preparing for SDE roles and internships.
+# Hi, I'm Gitanjali 👋  
+
+I’m a BCA graduate from Government Engineering College, Bikaner, exploring programming and problem-solving as I work on improving my skills. This is where I share my journey in software development as I continue learning and growing in the tech field.
+---
+
+## 🚀 About Me  
+
+- 🌱 Currently learning **Data Structures & Algorithms (DSA)** and **Web Development**.  
+- 💻 Exploring concepts and building small projects to enhance my skills.  
+- 🤝 Open to collaborating on beginner-friendly open-source projects.  
+- 📝 Actively preparing for **SDE roles** and solving problems on **LeetCode**.  
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ Skills & Tools  
 
-### Programming Languages
-- **C++** | **Python** | HTML/CSS/JavaScript
+### Programming Languages  
+- **C++** | **Python**  
 
-### Technologies
-- **Web Development**: Flask, SQLite, React (Learning)
-- **Version Control**: Git & GitHub
-- **Database**: MySQL, SQLite
+### Web Development (Learning)  
+- **HTML/CSS/JavaScript** | Basics of **React**, **Flask**, **SQLite**  
 
-### Areas of Interest
-- **Data Structures & Algorithms**
-- **Web Development**
-- **Natural Language Processing (NLP)**
+### Tools  
+- **Version Control**: Git & GitHub  
+- **Databases**: MySQL, SQLite  
+
+### Interests  
+- **Data Structures & Algorithms**  
+- **Web Development**  
+- **Machine Learning** *(aspiring to learn more)*  
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 What's Next?  
 
-### 📰 Fake News Detection
-A machine learning-based project to classify news as real or fake using **Natural Language Processing (NLP)**.
+- Building practical projects to apply what I’ve learned.  
+- Exploring advanced web development frameworks and tools.  
+- Preparing for internships and SDE opportunities.  
 
-[View all projects](#)
+---
 
+This version maintains clarity and professionalism while ensuring proper grammar. Let me know if you'd like further refinements or suggestions!
 ---
 
 ## 📫 Connect with Me
