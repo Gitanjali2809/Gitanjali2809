@@ -43,4 +43,3 @@ I am exploring programming and problem-solving while improving my skills. This s
 - **LinkedIn**: [https://www.linkedin.com/in/gitanjali-singh-aa6b24219/](#)
 - **Email**: gitanjali17singh@gmail.com
 
-Feel free to explore my repositories, leave a star ⭐, or reach out for collaboration! Let's build something amazing together. 🚀
