@@ -16,7 +16,7 @@ I am exploring programming and problem-solving while improving my skills. This s
 ## 🛠️ Skills & Tools  
 
 ### Programming Languages  
-- **C++** | **Python**  
+- **C++** 
 
 ### Web Development (Learning)  
 - **HTML/CSS/JavaScript** | Basics of **React**, **Flask**, **SQLite**  
