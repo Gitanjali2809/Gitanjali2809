@@ -19,7 +19,7 @@ I am exploring programming and problem-solving while improving my skills. This s
 - **C++** 
 
 ### Web Development (Learning)  
-- **HTML/CSS/JavaScript** | Basics of **React**, **Flask**, **SQLite**  
+- **HTML/CSS/JavaScript** | Basics of **React**  
 
 ### Tools  
 - **Version Control**: Git & GitHub  
