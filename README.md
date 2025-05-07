@@ -1,6 +1,6 @@
-# Hi, I'm Gitanjali 👋  
+#  Gitanjali   
 
-I am exploring programming and problem-solving while improving my skills. This space is where I share my journey in software development as I continue to learn and grow in the tech field.
+Practicing programming and sharing what I build along the way.
 
 ---
 
