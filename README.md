@@ -1,10 +1,10 @@
-# 👋 Gitanjali 
+# 🌟 Gitanjali 
 
 Practicing programming and sharing what I build along the way.
 
 ---
 
-## 🧠 About Me
+## 💫  A Bit About Me
 
 * 🌱 Currently learning **Full-Stack Web Development** (React, Node.js, Express) and strengthening **Data Structures & Algorithms**.
 * 🧩 Curious about building real-world projects and solving meaningful problems through code.
@@ -13,7 +13,7 @@ Practicing programming and sharing what I build along the way.
 
 ---
 
-## 🛠️ Skills & Tools
+## 💻  Tech Stack
 
 ### Programming
 
@@ -35,7 +35,7 @@ Practicing programming and sharing what I build along the way.
 
 ---
 
-## 🎯 What's Next?
+## 🧩  Plans Ahead
 
 * Complete the email collection feature in my event project
 * Build more full-stack projects to strengthen my React + Node.js skills
@@ -44,7 +44,7 @@ Practicing programming and sharing what I build along the way.
 
 ---
 
-## 💡 Interests
+## 🌱  Interests
 
 * **Data Structures & Algorithms**
 * **Web Development**
