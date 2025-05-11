@@ -1,43 +1,57 @@
-#  Gitanjali   
+# 👋 Gitanjali 
 
 Practicing programming and sharing what I build along the way.
 
 ---
 
-## 🚀 About Me  
+## 🧠 About Me
 
-- 🌱 Currently learning **Data Structures & Algorithms (DSA)** and **Web Development**.  
-- 💻 Exploring concepts and building small projects to enhance my skills.  
-- 🤝 Open to collaborating on beginner-friendly open-source projects.  
-- 📝 Actively preparing for **SDE roles** and solving problems on **LeetCode**.  
-
----
-
-## 🛠️ Skills & Tools  
-
-### Programming Languages  
-- **C++** 
-
-### Web Development (Learning)  
-- **HTML/CSS/JavaScript** | Basics of **React**  
-
-### Tools  
-- **Version Control**: Git & GitHub  
-- **Databases**: MySQL, SQLite  
-
-### Interests  
-- **Data Structures & Algorithms**  
-- **Web Development**  
-- **Machine Learning** 
+* 🌱 Currently learning **Full-Stack Web Development** (React, Node.js, Express) and strengthening **Data Structures & Algorithms**.
+* 🧩 Curious about building real-world projects and solving meaningful problems through code.
+* 🤝 Interested in contributing to beginner-friendly open-source projects.
+* 🚀 Exploring opportunities to apply my skills in real projects and internships.
 
 ---
 
-## 🌟 What's Next?  
+## 🛠️ Skills & Tools
 
-- Building practical projects to apply what I’ve learned.   
-- Preparing for internships and SDE opportunities.  
+### Programming
+
+* **C++** (for DSA & problem solving)
+* **Python** (used for scripting and data scraping)
+
+### Web Development
+
+* **HTML / CSS / JavaScript**
+* **React** (learning & building)
+* **Node.js + Express** (building backend APIs)
+
+### Tools & Technologies
+
+* **Git & GitHub**
+* **VS Code**
+* **MySQL / SQLite**
+* **Chrome DevTools**
 
 ---
+
+## 🎯 What's Next?
+
+* Complete the email collection feature in my event project
+* Build more full-stack projects to strengthen my React + Node.js skills
+* Contribute to beginner-friendly open-source projects
+* Work on real-world ideas and internships that challenge me to grow
+
+---
+
+## 💡 Interests
+
+* **Data Structures & Algorithms**
+* **Web Development**
+* **Machine Learning**
+
+---
+
 
 ## 📫 Connect with Me
 - **LinkedIn**: [https://www.linkedin.com/in/gitanjali-singh-aa6b24219/](#)
