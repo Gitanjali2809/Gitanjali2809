@@ -38,6 +38,4 @@ Practicing programming and sharing what I build along the way.
 - **LinkedIn**: [https://www.linkedin.com/in/gitanjali-singh-aa6b24219/](#)
 - **Email**: gitanjali17singh@gmail.com
 
----
-✨ _Always learning, always building._  
 
