@@ -20,12 +20,12 @@ Backend Developer focused on building secure REST APIs using Node.js, Express.js
 
 **Programming**
 * C++
+* JavaScript (ES6+) 
 
 
 **Frontend**  
 - HTML  
 - CSS  
-- JavaScript  
 - React.js (used in Weather App project)
 
   
