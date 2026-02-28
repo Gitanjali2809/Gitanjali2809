@@ -55,7 +55,6 @@ Backend Developer focused on building secure REST APIs using Node.js, Express.js
 
 ## 📫 Connect with Me
 
-- **LinkedIn**: [https://www.linkedin.com/in/gitanjali-singh-aa6b24219/](#)
 - **Email**: gitanjali17singh@gmail.com
 
 
