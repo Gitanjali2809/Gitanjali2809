@@ -13,6 +13,7 @@ Backend Developer focused on building secure REST APIs using Node.js, Express.js
 🧩 Strong understanding of DBMS, backend architecture, and API design.
 
 🌐 Basic knowledge of React.js, used in building a Weather App with API integration and React Hooks.
+
 ---
 
 ## ⚡ Tech Stack
