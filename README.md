@@ -16,7 +16,7 @@ Backend Developer focused on building secure REST APIs using Node.js, Express.js
 
 ---
 
-## ⚡ Tech Stack
+## Tech Stack
 
 **Programming**
 * C++
