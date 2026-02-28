@@ -1,35 +1,54 @@
-# 🌟 Gitanjali  
+# 🌟 Gitanjali
 
-Practicing programming and sharing what I build along the way.  
-
----
-
-## 💫 About Me  
-
-- 🛠️ Building **Full-Stack Web Development** projects using React, Node.js, Express, Next.js, and MongoDB.  
-- 🧩 Strengthening my knowledge of **Data Structures & Algorithms (DSA)**.  
-- 🚀 Exploring real-world projects and looking forward to internship opportunities.  
+Backend Developer focused on building secure REST APIs using Node.js, Express.js, and MongoDB. Interested in building secure backend systems, authentication, and API security.
 
 ---
 
-## ⚡ Tech Stack  
+💫 About Me
 
-**Programming**  
-- C++  
+🛠️ Built backend projects including authentication systems, payment integration, and API rate limiting.
+
+🔐 Experienced in JWT authentication, bcrypt encryption, API protection, and REST API development.
+
+🧩 Strong understanding of DBMS, backend architecture, and API design.
+
+🌐 Basic knowledge of React.js, used in building a Weather App with API integration and React Hooks.
+---
+
+## ⚡ Tech Stack
+
+**Programming**
+* C++
+
 
 **Frontend**  
-- HTML / CSS / JavaScript  
-- React.js  
-- Next.js  
+- HTML  
+- CSS  
+- JavaScript  
+- React.js (used in Weather App project)
 
-**Backend**  
-- Node.js  
-- Express.js  
-- MongoDB  
+  
+**Backend**
 
-**Tools**  
-- Postman (API/Server Testing)  
-- Git & GitHub  
+* Node.js
+* Express.js
+* REST API
+* MongoDB / Mongoose
+* Redis (Upstash)
+
+**Security**
+
+* JWT Authentication
+* bcrypt password hashing
+* API key authentication
+* Razorpay payment verification
+
+**Tools**
+
+* Postman
+* Git & GitHub
+* VS Code
+
 
 ---
 
