@@ -1,57 +1,41 @@
+
 # Gitanjali Singh
 
-Backend Developer focused on building secure REST APIs using Node.js, Express.js, and MongoDB. Interested in building secure backend systems, authentication, and API security.
+Data Analyst (Fresher) with a strong foundation in Excel, SQL, Power BI, and Python. Currently pursuing MCA, interested in data cleaning, visualization, and turning raw datasets into clear business insights.
 
 ---
 
 # About Me
 
-- Built backend projects including authentication systems, payment integration, and API rate limiting.
-
-- Experienced in JWT authentication, bcrypt encryption, API protection, and REST API development.
-
-- Strong understanding of DBMS, backend architecture, and API design.
-
-- Basic knowledge of React.js, used in building a Weather App with API integration and React Hooks.
+- Built data analysis projects covering retail sales analysis, e-commerce dashboards, and customer churn analysis.
+- Experienced in data cleaning, formatting, and analyzing large datasets (10,000+ rows) using Excel and Python (Pandas).
+- Comfortable building dashboards and visualizations to identify trends, patterns, and business-relevant insights.
+- Currently building deeper skills in SQL and Power BI, with a growing interest in end-to-end data analytics workflows.
 
 ---
 
 ## Tech Stack
 
 **Programming**
+* Python (Pandas, NumPy)
 * C++
-* JavaScript (ES6+) 
 
+**Data Analysis & Visualization**
+- Excel (VLOOKUP, Pivot Tables, SUMIFS, IF formulas, data validation)
+- Power BI
+- Matplotlib, Seaborn
+- SQL & Database Querying
 
-**Frontend**  
-- HTML  
-- CSS  
-- React.js (used in Weather App project)
-
-  
-**Backend**
-
-* Node.js
-* Express.js
-* REST API
-* MongoDB / Mongoose
-* Redis (Upstash)
-
-**Security**
-
-* JWT Authentication
-* bcrypt password hashing
-* API key authentication
-* Razorpay payment verification
+**Projects Covered**
+* Retail Sales Analysis (Excel Dashboard)
+* E-commerce Sales Dashboard (Power BI)
+* Customer Churn Analysis (Python)
 
 **Tools**
-
-* Postman
+* Jupyter Notebook
 * Git & GitHub
 * VS Code
 
-
----
 
 ##
 Connect with Me
